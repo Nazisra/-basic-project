@@ -11,7 +11,7 @@ struct student {
 };
 
 project owner:Nazmul Rahad
-              Daffodil internation university
+              Daffodil international university
               
        
 
@@ -24,8 +24,8 @@ Thank you for your understanding and cooperation.
 Best regards,
 Nazisra    
 
-drop a message here if any changes to be need : islam23105101183@diu.edu.bd
-or just pull request
+drop a message here if any changes to be need mail : islam23105101183@diu.edu.bd 
+or just pull request 
 
 
 
