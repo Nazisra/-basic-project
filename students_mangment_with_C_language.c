@@ -1,3 +1,4 @@
+  
 #include <stdio.h>
 
 #define MAX_STUDENTS 50
@@ -8,6 +9,30 @@ struct student {
     int roll;
     float marks[MAX_MARKS];
 };
+
+project owner:Nazmul Rahad
+              Daffodil internation university
+              
+       
+
+Dear User,
+
+Thank you for your interest in and use of my project. I would greatly appreciate it if you could kindly give credit to me as the project owner in any instance where you utilize this work. Your acknowledgment not only supports my efforts but also encourages continued development and improvement.
+
+Thank you for your understanding and cooperation.
+
+Best regards,
+Nazisra    
+
+drop a message here if any changes to be need : islam23105101183@diu.edu.bd
+or just pull request
+
+
+
+
+
+
+
 
 int STUDENTNO = 0;
 struct student students[MAX_STUDENTS];
